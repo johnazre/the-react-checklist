@@ -1,4 +1,4 @@
-# General steps on creating a basic stateful class component with a form
+# Creating a basic stateful class component with a form
 
 1. On line 1 of the file: `import React from 'react'`
 1. Create a class that inherits the React.Component class: `class Whatever extends React.Component {...}`

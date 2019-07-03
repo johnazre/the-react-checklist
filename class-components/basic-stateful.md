@@ -1,4 +1,4 @@
-# General steps on creating a basic stateful class component
+# Creating a basic stateful class component
 
 1. On line 1 of the file: `import React from 'react'`
 1. Create class that inherits the React.Component class: `class Whatever extends React.Component {...}`

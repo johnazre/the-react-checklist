@@ -1,4 +1,4 @@
-# General steps on creating a basic stateless functional component
+# Creating a basic stateless functional component
 
 1. On line 1 of the file: `import React from 'react'`
 1. Create a function named whatever you want the component to be called: `const App = () => {...}`

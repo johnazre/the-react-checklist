@@ -4,7 +4,7 @@
 
 Here are a few checklists to build basic components and structures in React
 
-## Index
+## Table of Contents
 
 ### Class Components
 

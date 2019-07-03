@@ -1,4 +1,4 @@
-# General steps on creating a basic stateful functional component
+# Creating a basic stateful functional component
 
 1. On line 1 of the file: `import React, { useState } from 'react'`
 1. Create a function named whatever you want the component to be called: `const App = () => {...}`
