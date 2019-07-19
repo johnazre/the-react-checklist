@@ -11,7 +11,7 @@ Here are a few checklists to build basic components and structures in React
 - [Basic stateless component](/class-components/basic-stateless.md)
 - [Basic stateful component](/class-components/basic-stateful.md)
 - [Stateful component with form](/class-components/stateful-with-form.md)
-- [TODO: Stateful component with lifecycle method](/class-components/lifecycle-methods.md)
+- [Stateful component with lifecycle method](/class-components/lifecycle-methods.md)
 
 ### Functional Components
 
