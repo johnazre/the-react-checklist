@@ -10,6 +10,8 @@
 6. Inside the `componentDidMount` method, make an API call to whichever server/API you need to in order to get the data for your application.
 7. After the API call resolves, use the callback function inside the `.then()` method to add the necessary data to the application state.
 
+### Final Result
+
 ```
 import React, { Component } from 'react'
 class SomeComponent extends Component {
