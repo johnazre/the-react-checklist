@@ -1,0 +1,1 @@
+# Connecting a component to the store
